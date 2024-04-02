@@ -1,0 +1,3 @@
+- pip install -r requirements
+- Use your Gemini API-KEY to replace API KEY in the .env file
+- `streamlit run main.py`
